@@ -18,7 +18,8 @@
 	
 	<modules>
 		<module>naming-server</module>
-		<module>sample-service</module>
+		<module>greet-service</module>
+		<module>user-service</module>
 	</modules>
 	
 	<dependencies>
